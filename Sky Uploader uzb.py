@@ -33,3 +33,4 @@ class SkynetUploaderMod(loader.Module):
             link = 'https://siasky.net/' +  str(filtered[1])
             await message.edit("Линк: \n" + link)
             os.remove('text.txt')
+Sssssssss
